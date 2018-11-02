@@ -4,7 +4,7 @@ In this repository is a basic version of FIRE using the particle system of Unity
 
 What you will find in the file UnityParticleSystemBasicFire.unitypackage is as follows:
 
-![package preview]( UnityParticleSystemBasicFire/Preview of UnityParticleSystemBasicFire unitypackage.PNG )
+![package preview](https://raw.githubusercontent.com/cgr71ii/UnityParticleSystemBasicFire/master/Preview%20of%20UnityParticleSystemBasicFire%20unitypackage.PNG)
 
 A preview of the fire is in the video:
 
