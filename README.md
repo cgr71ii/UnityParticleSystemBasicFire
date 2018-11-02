@@ -1,6 +1,6 @@
 <h1>Basic Fire with Unity</h1>
 
-In this repository is a basic version of FIRE using the particle system of Unity.
+This repository has an example of basic FIRE using the particle system of Unity.
 
 What you will find in the file UnityParticleSystemBasicFire.unitypackage is as follows:
 
