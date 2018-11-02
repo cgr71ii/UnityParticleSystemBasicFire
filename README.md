@@ -18,4 +18,4 @@ The particle system has been made following the video of Sirhaian'Arts:
 
 [![sirhaian video preview](https://img.youtube.com/vi/5Mw6NpSEb2o/0.jpg)](https://www.youtube.com/watch?v=5Mw6NpSEb2o)
 
-For open the scene in Unity you will to do the next: File -> Open Scene -> Path to UnityParticleSystemBasicFire.unitypackage
+To open the scene in Unity you will to do the next: File -> Open Scene -> Path to UnityParticleSystemBasicFire.unitypackage
