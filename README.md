@@ -8,4 +8,9 @@ What you will find in the file UnityParticleSystemBasicFire.unitypackage is as f
 
 A preview of the fire is in the video:
 
-[![video preview](https://img.youtube.com/vi/XyOKhR4CjE8/0.jpg)](https://www.youtube.com/watch?v=XyOKhR4CjE8)
+![![video preview](https://img.youtube.com/vi/XyOKhR4CjE8/0.jpg)](https://www.youtube.com/watch?v=XyOKhR4CjE8)
+
+<h1>Description</h1>
+The methodology that have been decompose the fire in elementally parts (i.e. flames, additive flame for intensity, glow and sparks). With that parts we have made a herarchery in Unity and layers have represented that parts.
+
+The particle system have been made following ![this](https://www.youtube.com/watch?v=5Mw6NpSEb2o) video of Sirhaian'Arts.
