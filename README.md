@@ -6,5 +6,6 @@ What you will find in the file UnityParticleSystemBasicFire.unitypackage is as f
 
 ![package preview](https://i.imgur.com/iqr0EY5.png)
 
-A preview of the fire is in the video: 
+A preview of the fire is in the video:
+
 ![video preview](https://i.imgur.com/HTy26Ta.png)
